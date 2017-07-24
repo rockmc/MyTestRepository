@@ -8,6 +8,8 @@
       // members and methods
     }
     */
+
+/* My additional line of code */
      
     public class JavaClassExample{
       /*
